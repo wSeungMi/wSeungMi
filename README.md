@@ -1,6 +1,5 @@
 <div align="center">
-<h4> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋 </h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8274B6FD&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9D%90%80%F0%9D%90%A7+%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD+%F0%9D%90%85%F0%9D%90%84+%F0%9D%90%9D%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB+%F0%9D%90%B0%F0%9D%90%A8%F0%9D%90%A8+%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A0+%F0%9D%90%A6%F0%9D%90%A2" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rozha+One&size=25&duration=4500&pause=500&color=858585&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there+%F0%9F%91%8B+;An+aspirant+FE+developer+woo+seung+mi" alt="Typing SVG" /></a>
 
 [![Blog Badge](https://img.shields.io/badge/-tistory-ed8544?style=flat-square&logo=Tistory&logoColor=white&link=https://joyce-w0w-b.tistory.com/)](https://joyce-w0w-b.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-cd5b58?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmi.dev@gmail.com)](mailto:jjuhee0913@gmail.com)
@@ -22,12 +21,11 @@
 </p>
 
 <br />
-  
-<p> * * * </p>  
 
-
-  
-  
+<a href="https://github.com/wSeungMi"> 
+  <img alt="seungmi github stats" width="35%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
+  <img alt="seungmi top langs" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&langs_count=2" href="https://github.com/wSeungMi">
+</a>
 
 </div>
 
