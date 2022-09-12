@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rozha+One&size=25&duration=4500&pause=500&color=858585&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there+%F0%9F%91%8B+;I'm+an+aspirant+FE+developer+woo+seung+mi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rozha+One&size=25&pause=1000&color=A5ABF7&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi+there+%F0%9F%91%8B;I'm+an+aspirant+FE+developer+woo+seung+mi" alt="Typing SVG" /></a>
 
 [![Blog Badge](https://img.shields.io/badge/-tistory-ed8544?style=flat-square&logo=Tistory&logoColor=white&link=https://joyce-w0w-b.tistory.com/)](https://joyce-w0w-b.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-cd5b58?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungmi.dev@gmail.com)](mailto:jjuhee0913@gmail.com)
@@ -23,10 +23,8 @@
 <br />
 
 <a href="https://github.com/wSeungMi"> 
-  <img alt="seungmi github stats" width="39%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
-  <img alt="seungmi top langs" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&langs_count=2" href="https://github.com/wSeungMi">
+  <img alt="seungmi github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
+  <img alt="seungmi top langs" width="28.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&langs_count=2" href="https://github.com/wSeungMi">
 </a>
 
 </div>
-
-
