@@ -27,8 +27,9 @@
   <a href="https://github.com/wSeungMi"> 
     <img alt="seungmi github stats" width="30.5%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
     <img alt="seungmi top langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&layout=compact" />
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
