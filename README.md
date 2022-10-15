@@ -32,8 +32,19 @@
 </div>
 
 <!--START_SECTION:waka-->
+**🐱 저의 GitHub 정보에요.** 
 
-**Most Used Languages** 
+> 🏆 197 만큼의 Contributions을 2022년에 했어요
+ > 
+> 📦 GitHub의 81.8 kB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 15개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 9개의 Private Repository를 만들었어요.  
+ > 
+**저는 주로 HTML 언어를 사용해요.** 
 
 ```text
 HTML                     7 repos             ████████████░░░░░░░░░░░░░   50.0% 
@@ -43,4 +54,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ```
 
+
+**타임라인**
+
+![Chart not found](https://raw.githubusercontent.com/wSeungMi/wSeungMi/main/charts/bar_graph.png) 
+
+
+ Last Updated on 15/10/2022 13:59:33 UTC
 <!--END_SECTION:waka-->
