@@ -25,8 +25,8 @@
   <br />
 
   <a href="https://github.com/wSeungMi"> 
-    <img alt="seungmi github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
-    <img alt="seungmi top langs" width="28.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&langs_count=2" href="https://github.com/wSeungMi">
+    <img alt="seungmi github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
+    <img alt="seungmi top langs" width="28.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&langs_count=3" href="https://github.com/wSeungMi">
   </a>
 
 </div>
