@@ -32,11 +32,8 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-**저는 주로 HTML 언어를 사용해요.** 
+**Most Used Languages** 
 
 ```text
 HTML                     7 repos             ████████████░░░░░░░░░░░░░   50.0% 
@@ -46,7 +43,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ```
 
-
-
- Last Updated on 15/10/2022 13:26:29 UTC
 <!--END_SECTION:waka-->
