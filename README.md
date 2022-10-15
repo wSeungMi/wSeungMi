@@ -31,15 +31,3 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-
-**저는 주로 HTML 언어를 사용해요.** 
-
-```text
-HTML                     7 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-<!--END_SECTION:waka-->
