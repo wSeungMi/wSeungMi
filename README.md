@@ -27,26 +27,7 @@
   <a href="https://github.com/wSeungMi"> 
     <img alt="seungmi github stats" width="30.5%" src="https://github-readme-stats.vercel.app/api?username=wSeungMi" />
     <img alt="seungmi top langs" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wSeungMi&layout=compact" />
-    
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
-
-**저는 주로 HTML 언어를 사용해요.** 
-
-```text
-HTML                     7 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
- Last Updated on 15/10/2022 13:09:29 UTC
-<!--END_SECTION:waka-->
+  </a>
 
 </div>
 
