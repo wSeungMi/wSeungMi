@@ -5,7 +5,7 @@
 
 [![Blog Badge](https://img.shields.io/badge/-tistory-ed8544?style=flat-square&logo=Tistory&logoColor=white)](https://joyce-w0w-b.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-cd5b58?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungmi.dev@gmail.com)
-![GitHub Followers](https://img.shields.io/github/followers/wSeungMi?style=social
+![GitHub Followers](https://img.shields.io/github/followers/wSeungMi?style=social)
 
   <p> * * * </p>
 </div>
